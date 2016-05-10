@@ -1,5 +1,9 @@
 # Java course of Duke university
 
+### Topics
+-Sorting
+-N-grams 
+
 ### Run
 
 ```
