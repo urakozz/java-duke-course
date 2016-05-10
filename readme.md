@@ -1,8 +1,8 @@
 # Java course of Duke university
 
 ### Topics
--Sorting
--N-grams 
+- Sorting
+- N-grams 
 
 ### Run
 
